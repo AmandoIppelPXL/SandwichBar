@@ -1,0 +1,12 @@
+{
+  "name": "SandwichBar",
+  "displayName": "SandwichBar",
+  "expo": {
+    "name": "SandwichBar",
+    "slug": "SandwichBar",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
